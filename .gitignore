@@ -1,0 +1,4 @@
+HARDWARE/*-cache
+HARDWARE/*-table
+HARDWARE/*.lck
+EXAMPLES/build
